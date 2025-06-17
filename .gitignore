@@ -1,0 +1,4 @@
+env/
+4.2
+db.sqlite3
+__pycache__
