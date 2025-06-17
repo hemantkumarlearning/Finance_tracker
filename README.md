@@ -27,8 +27,8 @@ A simple and secure Finance Tracker API built using Django REST Framework and JW
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-username/finance-tracker-api.git
-cd finance-tracker-api
+git clone https://github.com/hemantkumarlearning/Finance_tracker.git
+cd Finance_tracker
 ```
 
 ### 2. Create & Activate Virtual Environment
