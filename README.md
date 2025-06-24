@@ -75,47 +75,12 @@ Authorization: Bearer <your_token>
 
 ## API Endpoints
 
-All endpoints require JWT auth unless mentioned otherwise.
+All endpoints require JWT auth unless mentioned otherwis.
 
-#### User
-
-- POST /api/users/register/ – Register new user
-
-- POST /api/token/ – Login (JWT)
-
-#### Categories
-
-- GET /api/categories/
-
-- POST /api/categories/
-
-- PUT /api/categories/<id>/
-
-- DELETE /api/categories/<id>/
-
-#### Transactions
-
-- GET /api/transactions/
-
-- POST /api/transactions/
-
-- PUT /api/transactions/<id>/
-
-- DELETE /api/transactions/<id>/
-
-#### Budgets
-
-- GET /api/budgets/
-
-- POST /api/budgets/
-
-- PUT /api/budgets/<id>/
-
-- DELETE /api/budgets/<id>/
-
-#### Monthly Report
-
-- GET /api/reports/monthly/?month=<year>-<month> – View monthly summary
+Check Swagger docs (API documentation)
+```
+http://127.0.0.1:8000/swagger/
+```
 
 
 ### Monthly Report
